@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertoramirez625&show_icons=true&locale=en&layout=compact" alt="robertoramirez625" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robertoramirez625&show_icons=true&locale=en" alt="robertoramirez625" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertoramirez625&" alt="robertoramirez625" /></p>
